@@ -1,0 +1,397 @@
+/* Dark Mode Overrides */
+
+.dark-mode .hero-copy {
+  color: #94a3b8;
+}
+
+.dark-mode h1,
+.dark-mode h2,
+.dark-mode h3,
+.dark-mode h4 {
+  color: #f1f5f9;
+}
+
+.dark-mode p {
+  color: #cbd5e1;
+}
+
+.dark-mode .board-column {
+  background: rgba(30, 41, 59, 0.88);
+  border-color: #475569;
+}
+
+.dark-mode .board-column:hover {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  border-color: #64748b;
+}
+
+.dark-mode .task-card {
+  background: #334155;
+  border-color: #475569;
+}
+
+.dark-mode .task-card:hover {
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.25);
+}
+
+.dark-mode .task-card-body {
+  color: #e2e8f0;
+  background: #334155;
+}
+
+.dark-mode .meta-item {
+  color: #cbd5e1;
+}
+
+.dark-mode .task-modal {
+  background: #1e293b;
+  color: #f1f5f9;
+  border: 1px solid #475569;
+}
+
+.dark-mode .project-manager-modal {
+  background: #1e293b;
+  color: #f1f5f9;
+  border: 1px solid #475569;
+}
+
+.dark-mode .archive-modal {
+  background: #1e293b;
+  color: #f1f5f9;
+  border: 1px solid #475569;
+}
+
+.dark-mode .archive-subtitle {
+  color: #94a3b8;
+}
+
+.dark-mode .archive-card {
+  background: #334155;
+  border-color: #475569;
+  color: #e2e8f0;
+}
+
+.dark-mode .archive-card:hover {
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.25);
+}
+
+.dark-mode .archive-meta {
+  color: #cbd5e1;
+}
+
+.dark-mode .archive-notes,
+.dark-mode .archive-people {
+  background: #1e293b;
+  border-color: #475569;
+  color: #cbd5e1;
+}
+
+.dark-mode .archive-notes strong,
+.dark-mode .archive-people strong {
+  color: #f1f5f9;
+}
+
+.dark-mode .project-form-inline {
+  background: #334155;
+  border-color: #475569;
+}
+
+.dark-mode .project-name-input {
+  background: #1e293b;
+  border-color: #475569;
+  color: #f1f5f9;
+}
+
+.dark-mode .project-name-input::placeholder {
+  color: #64748b;
+}
+
+.dark-mode .project-name-input:focus {
+  border-color: #8b5cf6;
+  background: #334155;
+  box-shadow: 0 0 0 2px rgba(139, 92, 246, 0.1);
+}
+
+.dark-mode .project-item {
+  background: #334155;
+  border-color: #475569;
+}
+
+.dark-mode .project-item:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+}
+
+.dark-mode .project-item-info strong {
+  color: #f1f5f9;
+}
+
+.dark-mode .project-item-info small {
+  color: #94a3b8;
+}
+
+.dark-mode .project-icon-upload-label {
+  background: #1e293b;
+  border-color: #475569;
+}
+
+.dark-mode .project-icon-upload-label:hover {
+  background: #334155;
+  border-color: #64748b;
+}
+
+.dark-mode .project-color-input-small {
+  border-color: #475569;
+}
+
+.dark-mode .project-color-input-small:hover {
+  border-color: #64748b;
+}
+
+.dark-mode .project-icon-upload {
+  background: #1e293b;
+  border-color: #475569;
+  color: #f1f5f9;
+}
+
+.dark-mode .project-icon-upload:hover {
+  background: #334155;
+  border-color: #64748b;
+}
+
+.dark-mode .modal-backdrop {
+  background: rgba(0, 0, 0, 0.7);
+}
+
+.dark-mode .detail-card {
+  background: #334155;
+  border-color: #475569;
+  color: #e2e8f0;
+}
+
+.dark-mode .detail-label {
+  color: #94a3b8;
+}
+
+.dark-mode .detail-value {
+  color: #f1f5f9;
+}
+
+.dark-mode .form-field label {
+  color: #cbd5e1;
+  font-weight: 600;
+}
+
+.dark-mode .form-field input,
+.dark-mode .form-field select,
+.dark-mode .form-field textarea {
+  background: #334155;
+  border-color: #475569;
+  color: #f1f5f9;
+}
+
+.dark-mode .form-field input::placeholder,
+.dark-mode .form-field textarea::placeholder {
+  color: #64748b;
+}
+
+.dark-mode .form-field input:focus,
+.dark-mode .form-field select:focus,
+.dark-mode .form-field textarea:focus {
+  border-color: #8b5cf6;
+  background: #334155;
+  box-shadow: 0 0 0 2px rgba(139, 92, 246, 0.1);
+}
+
+.dark-mode .task-form,
+.dark-mode .person-form {
+  background: #1e293b;
+  color: #f1f5f9;
+  border: 1px solid #475569;
+}
+
+.dark-mode .icon-button {
+  background: rgba(139, 92, 246, 0.2);
+  color: #f1f5f9;
+  border: 1px solid #475569;
+}
+
+.dark-mode .icon-button:hover {
+  background: rgba(139, 92, 246, 0.3);
+  border-color: #8b5cf6;
+}
+
+.dark-mode .primary-button {
+  background: #8b5cf6;
+  color: white;
+  border: none;
+}
+
+.dark-mode .primary-button:hover {
+  background: #7c3aed;
+}
+
+.dark-mode .subtask-card {
+  background: #334155;
+  border-color: #475569;
+  color: #e2e8f0;
+}
+
+.dark-mode .subtask-card span {
+  color: #f1f5f9;
+}
+
+.dark-mode .avatar-chip {
+  background: rgba(139, 92, 246, 0.3);
+  color: #f1f5f9;
+  border: 1px solid #8b5cf6;
+}
+
+.dark-mode .project-item {
+  background: #334155;
+  border-color: #475569;
+  color: #f1f5f9;
+}
+
+.dark-mode .project-item:hover {
+  background: #3f4f63;
+  border-color: #64748b;
+}
+
+.dark-mode .project-color-item {
+  background: #334155;
+  border-color: #475569;
+}
+
+.dark-mode .project-color-item:hover {
+  background: #3f4f63;
+  border-color: #64748b;
+}
+
+.dark-mode .project-colors-list {
+  background: #1e293b;
+  border: 1px solid #475569;
+}
+
+.dark-mode .project-color-name {
+  color: #cbd5e1;
+}
+
+.dark-mode .column-header h2 {
+  color: #f1f5f9;
+}
+
+.dark-mode .column-header p {
+  color: #94a3b8;
+}
+
+.dark-mode .add-task-button {
+  background: rgba(139, 92, 246, 0.2);
+  color: #f1f5f9;
+  border: 1px solid #475569;
+}
+
+.dark-mode .add-task-button:hover {
+  background: rgba(139, 92, 246, 0.3);
+  border-color: #8b5cf6;
+}
+
+.dark-mode .archive-item {
+  background: #334155;
+  border-color: #475569;
+}
+
+.dark-mode .archive-item h3 {
+  color: #f1f5f9;
+}
+
+.dark-mode .archive-item p {
+  color: #cbd5e1;
+}
+
+.dark-mode .contact-card {
+  background: #334155;
+  border-color: #475569;
+}
+
+.dark-mode .contact-card h3 {
+  color: #f1f5f9;
+}
+
+.dark-mode .contact-card p {
+  color: #cbd5e1;
+}
+
+.dark-mode .project-name-edit {
+  color: #f1f5f9;
+  background: transparent;
+  border: 1px solid transparent;
+}
+
+.dark-mode .project-name-edit:hover {
+  background: #334155;
+  border-color: #475569;
+}
+
+.dark-mode .project-name-edit:focus {
+  background: #334155;
+  border-color: #8b5cf6;
+}
+
+.dark-mode .project-task-count {
+  color: #94a3b8;
+}
+
+.dark-mode .hero-pills span {
+  background: rgba(139, 92, 246, 0.15);
+  color: #f1f5f9;
+  border: 1px solid rgba(139, 92, 246, 0.3);
+}
+
+.dark-mode .subtask-header {
+  color: #f1f5f9;
+}
+
+.dark-mode .subtask-column {
+  background: #1e293b;
+  border-color: #475569;
+}
+
+.dark-mode .notes-section textarea {
+  background: #334155;
+  border-color: #475569;
+  color: #f1f5f9;
+}
+
+.dark-mode .notes-section textarea:focus {
+  border-color: #8b5cf6;
+  box-shadow: 0 0 0 2px rgba(139, 92, 246, 0.1);
+}
+
+.dark-mode .delete-button {
+  background: rgba(239, 68, 68, 0.2);
+  color: #fca5a5;
+  border-color: #991b1b;
+}
+
+.dark-mode .delete-button:hover {
+  background: rgba(239, 68, 68, 0.3);
+  border-color: #dc2626;
+}
+
+.dark-mode .modal-header-row {
+  border-bottom: 1px solid #475569;
+}
+
+.dark-mode .recurring-pill {
+  background: rgba(139, 92, 246, 0.2);
+  color: #c4b5fd;
+  border: 1px solid rgba(139, 92, 246, 0.4);
+}
+
+.dark-mode .task-meta-row {
+  color: #cbd5e1;
+}
+
+.dark-mode .eyebrow {
+  color: #a78bfa;
+}

@@ -1,0 +1,39 @@
+{
+  "name": "pastel-kanban-board",
+  "private": false,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A beautiful, feature-rich personal Kanban board with soft pastel colors, drag-and-drop, dark mode, and team collaboration features",
+  "author": "Jaison",
+  "license": "GPL-3.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaisonlewis/kanban-plus.git"
+  },
+  "keywords": [
+    "kanban",
+    "task-management",
+    "productivity",
+    "react",
+    "typescript",
+    "drag-and-drop",
+    "dark-mode",
+    "open-source"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.10"
+  }
+}
