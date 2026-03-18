@@ -1,4 +1,4 @@
-# Pastel Kanban Board
+# Kanban Board Plus
 
 A beautiful, feature-rich personal Kanban board application with soft pastel colors, drag-and-drop functionality, and team collaboration features.
 
